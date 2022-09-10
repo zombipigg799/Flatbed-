@@ -1,0 +1,20 @@
+Install Guide:
+Place the ELS Config in the ELS folder under pack_default (ELS folder located in the GTA V Main Directory)
+Install the cars under the latest patchday, Found in mods>update>x64>dlcpacks>patchday14>dlc.rpf>x64>levels>gta5>vehicles.rpf) 
+
+
+If the Model is not in there, still put it in. (In mine its patchday14)
+
+                     !!!!!!!!!INPORTANT!!!!!!!!!!!
+
+Flatbed Ramp Posion For Arrest Manager.
+
+This may need tweaking.
+FlatbedX=-0.00
+FlatbedY=-5.50
+FlatbedZ=0.57
+
+Before you do any of the below instructions, Try the game without them first.   I do recommend the visualsettings.dat For brighter ELS lights.
+
+visualsettings.dat
+mods>update>update.rpf>common>data
